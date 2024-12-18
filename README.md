@@ -3,5 +3,5 @@ User friendly attempt of a login application in Kotlin Multiplatform.
 
 Correct credentials for the login sample are:
 
-email: 		prova
-password: 	prova
+email:&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;prova<br>
+password:&emsp;&emsp;prova
